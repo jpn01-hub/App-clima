@@ -88,7 +88,7 @@ function App() {
         console.log(data.results)      
     };
     consultarAPI_noticia();
-  },[seccion]);
+  },[seccion]); 
 
 
   return (
